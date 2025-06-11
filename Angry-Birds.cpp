@@ -1,7 +1,8 @@
 /*
+CTIS-164-HW2
 Name: Mohammed Ehsan Ullah Shareef
-CTIS-164
 ehsan.shareef@ug.bilkent.edu.tr
+Build Time - 48+ Hours
 
 1. Game Overview
 Title: Angry Birds - Hit the Target
